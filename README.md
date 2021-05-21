@@ -2,21 +2,22 @@
 
 # Amauri Oliveira
 
-| Atualmente  | Empresa | Localização|
-:-- | :-: | --:
-| Estagiário Dev. Web | TokenLab | São Carlos - SP|
+| Atualmente          | Empresa  |     Localização |
+| :------------------ | :------: | --------------: |
+| Estagiário Dev. Web | TokenLab | São Carlos - SP |
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveiratokenlab&theme=dark" alt="top languages"/> 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveiratokenlab&theme=dark" alt="top languages"/>
 
 #### Redes Sociais
+
 [![My Linktree](https://img.shields.io/badge/-LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/amauri_oliveira)](https://linktr.ee/amauri_oliveira)
 [![My Linktree](https://img.shields.io/badge/-OtherGitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AmauriOliveira)](https://github.com/AmauriOliveira)
 
-
 #### Estudando/Conhecimento
+
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](#)
-[![NodejsBadge](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](#)
+[![NodeJs Badge](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
 [![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
@@ -43,24 +44,29 @@
 [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
 
 #### Técnico em Informática
-| Instituição ETEC|Início|Término|Carga horária|
-:-- | :-: | :-: | --:
-|**Paulino Botelho**|02/2013|06/2014|1500 h|
- 
+
+| Instituição ETEC    | Início  | Término | Carga horária |
+| :------------------ | :-----: | :-----: | ------------: |
+| **Paulino Botelho** | 02/2013 | 06/2014 |        1500 h |
+
 #### Análise e Desenvolvimento de Sistemas
-| Instituição|Início|Previsão término|Período|
-:-- | :-: | :-: | --:
-|**Unicesumar**|07/2019|12/2021|EAD|
+
+| Instituição    | Início  | Previsão término | Período |
+| :------------- | :-----: | :--------------: | ------: |
+| **Unicesumar** | 07/2019 |     12/2021      |     EAD |
 
 #### GoStack 14
-| Instituição|Início|Término|Carga horária|
-:-- | :-: | :-: | --:
-|**Rocketseat**|08/2020|12/2020|160 h|
- 
+
+| Instituição    | Início  | Término | Carga horária |
+| :------------- | :-----: | :-----: | ------------: |
+| **Rocketseat** | 08/2020 | 12/2020 |         160 h |
+
   <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
- 
+
 #### Extensão Universitária
-**The Fellowship of the Game - ICMC USP São Carlos**
+
+##### **The Fellowship of the Game - ICMC USP São Carlos**
 
 #### Sobre
+
 Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base logica e uma enorme curva de aprendizagem com tecnologias, desejo por fazer algo grande e transforma o mundo com meu trabalho.
