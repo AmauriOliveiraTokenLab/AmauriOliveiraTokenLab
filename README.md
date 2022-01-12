@@ -4,7 +4,7 @@
 
 | Atualmente          | Empresa  |     Localização |
 | :------------------ | :------: | --------------: |
-| Estagiário Dev. Web | TokenLab | São Carlos - SP |
+| Web Developer Jr | TokenLab | São Carlos - SP |
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveiratokenlab&theme=dark" alt="top languages"/>
 
@@ -15,14 +15,17 @@
 
 #### Estudando/Conhecimento
 
+#### Estudando/Conhecimento
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
-[![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](#)
-[![NodeJs Badge](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
 [![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)](#)
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
@@ -35,6 +38,7 @@
 [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](#)
 [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](#)
+[![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](#)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)
